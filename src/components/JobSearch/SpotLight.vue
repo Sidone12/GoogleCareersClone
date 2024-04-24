@@ -31,4 +31,3 @@ const getspotLights = async () => {
 };
 onMounted(getspotLights);
 </script>
-

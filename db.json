@@ -11,6 +11,18 @@
       "img": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
       "title": "Executive Leadership",
       "description": "Be a leader for everyone. Leadership builds character."
+    },
+    {
+      "id": 3,
+      "img": "https://images.unsplash.com/photo-1556075798-4825dfaaf498",
+      "title": "Executive Leadership",
+      "description": "Be a leader for everyone. Leadership builds character."
+    },
+    {
+      "id": 4,
+      "img": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+      "title": "Executive Leadership",
+      "description": "Be a leader for everyone. Leadership builds character."
     }
   ],
   "degrees": [

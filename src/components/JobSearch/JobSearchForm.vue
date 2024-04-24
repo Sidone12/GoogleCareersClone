@@ -6,7 +6,7 @@
     <font-awesome-icon :icon="['fas', 'search']" class="ml-4 mr-3" />
     <div class="flex-no flex h-full flex-nowrap text-base font-light">
       <div class="relative flex h-full flex-1 items-center pr-3">
-        <label for="role" class="absolute left-0 -top-10">Role</label>
+        <label for="role" class="absolute left-0 -top-10 sm:-top-6">Role</label>
         <TextInput id="role" placeholder="Software engineer" v-model="role" />
       </div>
       <span
@@ -15,7 +15,9 @@
         in
       </span>
       <div class="relative flex h-full flex-1 items-center pl-3">
-        <label for="location" class="absolute left-0 -top-10">Where?</label>
+        <label for="location" class="absolute left-0 -top-10 sm:-top-6"
+          >Where?</label
+        >
         <TextInput id="location" placeholder="Los Angeles" v-model="location" />
       </div>
     </div>
